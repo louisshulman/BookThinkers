@@ -13,6 +13,7 @@ Deliver a functional web-app and native iOS App with three core functions for bo
 2. Socialize with other booklovers
 3. three making some test changes to see if this works or if i'm stupid - Louis
 
+this is completely different 
 ### Sprint 1
 Set up a functional backend and database.
 
