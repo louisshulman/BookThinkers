@@ -1,7 +1,12 @@
-## BookThinkers Life-Changing Books Mobile + Web App
+## 
+
+# Project Title
+BookThinkers Life-Changing Books 
+Mobile + Web App
+![media/BookThinkers.png]
 
 
-# Goals
+# Project Goals
 ### Overall
 Deliver a functional web-app and native iOS App with three core functions for book lovers.
 1. Maintain a personal bookshelf
