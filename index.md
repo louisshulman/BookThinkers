@@ -1,4 +1,4 @@
-## 
+## Group 6 Website
 
 # Project Title
 BookThinkers Life-Changing Books 
